@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a Linux Enthusiast!
-![github stats](https://github-readme-stats.vercel.app/api?username=gaurit11&show_icons=true&theme=radical)
+I'm an Open Source & Linux Enthusiast :)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurit11&layout=compact&theme=radical)](https://github.com/gaurit11/github-readme-stats)
 <!--
 **gaurit11/gaurit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
