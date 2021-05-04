@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm an Open Source & Linux Enthusiast :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurit11&layout=compact&theme=radical)](https://github.com/gaurit11/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primalkaze&layout=compact&theme=radical)](https://github.com/gaurit11/github-readme-stats)-->
 <!--
-**gaurit11/gaurit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**primalkaze/primalkaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
